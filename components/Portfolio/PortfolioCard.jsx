@@ -44,7 +44,7 @@ const PortfolioCard = ({ data }) => {
                         </a>
                     </div>
                 </div>
-                <p className="text-xs text-LightGray font-normal">
+                <p className="text-xs text-gray-300 font-normal">
                     {data?.projectDetail}
                 </p>
                 <div className="text-sm flex flex-wrap gap-3 py-2">

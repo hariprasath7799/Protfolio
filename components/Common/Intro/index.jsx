@@ -18,7 +18,7 @@ const Intro = () => {
         <Image className='w-20 h-30 rounded-full' src={Hari} alt='profile picture' />
         <div className='flex flex-col items-center justify-center'>
           <span className='text-gray-300 text-base font-bold break-normal'>{NAME}</span>
-          <span className='text-sm text-LightGray text-center mt-2'>{DESIGNATION}</span>
+          <span className='text-sm text-gray-300 text-center mt-2'>{DESIGNATION}</span>
         </div>
       </div>
 

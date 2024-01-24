@@ -20,29 +20,29 @@ const Contact = () => {
                         <div className="card_stylings w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Country:</span>
-                                <span className='text-LightGray md:text-sm'>India</span>
+                                <span className='text-gray-300 md:text-sm'>India</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>City:</span>
-                                <span className='text-LightGray md:text-sm'>Coimbatore</span>
+                                <span className='text-gray-300 md:text-sm'>Coimbatore</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Company:</span>
-                                <span className='text-LightGray md:text-sm'>Montbleu Technologies</span>
+                                <span className='text-gray-300 md:text-sm'>Montbleu Technologies</span>
                             </div>
                         </div>
                         <div className="card_stylings rounded-xl w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Email:</span>
-                                <span className='text-LightGray text-sm'>hariprasathbest10@gmail.com</span>
+                                <span className='text-gray-300 text-sm'>hariprasathbest10@gmail.com</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Linkedin:</span>
-                                <span className='text-LightGray text-sm'>Hari Prasath</span>
+                                <span className='text-gray-300 text-sm'>Hari Prasath</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Phone:</span>
-                                <span className='text-LightGray text-sm'>+919842666947</span>
+                                <span className='text-gray-300 text-sm'>+919842666947</span>
                             </div>
                         </div>
                     </div>

@@ -9,14 +9,14 @@ const ReviewCard = ({ data }) => {
                 <div className="flex justify-between items-center">
                     <div className="flex flex-col gap-1">
                         <span className="text-sm text-Snow font-bold">{data?.clientName}</span>
-                        <div className="text-xs text-LightGray flex items-center gap-1 font-light">
+                        <div className="text-xs text-gray-300 flex items-center gap-1 font-light">
                             <MdLocationOn />
                             <em>{data?.clientLocation}</em>
                         </div>
                     </div>
-                    <span className='text-sm text-LightGray font-light'>{data?.clientSource}</span>
+                    <span className='text-sm text-gray-300 font-light'>{data?.clientSource}</span>
                 </div>
-                <div className="text-sm mt-2 text-LightGray font-normal">
+                <div className="text-sm mt-2 text-gray-300 font-normal">
                     {data.clientReview}
                 </div>
                 <div className="flex gap-2 items-center justify-center bg-MidNightBlack w-6/12 md:w-5/12 text-xs text-Green rounded-full p-2 mt-4 ">
