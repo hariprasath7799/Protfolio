@@ -31,6 +31,15 @@ const background = [
         expCards: [
             {
                 id: 1,
+                title: 'My Hire Cloud',
+                role: 'Frontend Developer',
+                url: 'https://web-dev.myhirecloud.com/',
+                desc: 'As a frontend developer, I use React & JavaScript to build user interfaces for web applications.',
+                year: '09/2022 - 2023',
+                location: 'Coimbatore, India'
+            },
+            {
+                id: 1,
                 title: 'Motiv AI App',
                 role: 'Frontend Developer',
                 url: 'https://app.motivai.tech/',
@@ -38,10 +47,11 @@ const background = [
                 year: '09/2022 - Present',
                 location: 'Coimbatore, India'
             },
+           
             {
                 id: 2,
                 title: 'Motiv',
-                role: 'UI Developer',
+                role: 'Frontend Developer',
                 url: 'https://motivai.tech/',
                 desc: 'As a frontend developer, I use React  to build user interfaces for web site.',
                 year: '02/2023 - Present',
