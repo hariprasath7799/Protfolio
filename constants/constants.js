@@ -61,5 +61,5 @@ export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/hariprasath7799',
   LINKEDIN: 'https://www.linkedin.com/in/hari-prasath-49b77421a/',
   TWITTER: '#',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  FACEBOOK: 'https://www.facebook.com/abi.challam.1',
 };
