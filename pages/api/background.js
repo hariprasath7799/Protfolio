@@ -40,7 +40,7 @@ const background = [
             },
             {
                 id: 1,
-                title: 'Motiv AI App',
+                title: 'MotivAI App',
                 role: 'Frontend Developer',
                 url: 'https://app.motivai.tech/',
                 desc: 'As a frontend developer, I use React & JavaScript to build user interfaces for web applications.',
@@ -50,7 +50,7 @@ const background = [
            
             {
                 id: 2,
-                title: 'Motiv',
+                title: 'MotivAI Website',
                 role: 'Frontend Developer',
                 url: 'https://motivai.tech/',
                 desc: 'As a frontend developer, I use React  to build user interfaces for web site.',
