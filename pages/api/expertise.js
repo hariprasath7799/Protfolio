@@ -2,7 +2,7 @@ const expertise = [
     {
         id: 0,
         title: 'Front-End Development',
-        desc: 'I am a skilled MERN stack developer with extensive experience in building robust web applications using MongoDB, Express.js, React.js, and Node.js. I possess a strong understanding of server-side rendering, API integration, and database management. With my expertise, I can deliver dynamic and efficient web solutions tailored to meet the unique requirements of clients.',
+        desc: "As a highly skilled Front-End developer, I bring a wealth of experience to the table, specializing in crafting cutting-edge web applications using the industry's leading technologies. Proficient in React.js, Vue.js, Next.js, and Redux, my expertise extends beyond mere proficiency – I have a passion for creating dynamic and innovative solutions tailored to exceed client expectations.",
     },
     {
         id: 1,
