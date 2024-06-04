@@ -31,39 +31,48 @@ const background = [
         expCards: [
             {
                 id: 1,
+                title: 'ERP Software',
+                role: 'Frontend Developer',
+                url: '#',
+                desc: 'As a frontend developer, I use React & JavaScript to build user interfaces for web applications.',
+                year: '06/2021 - 09/2022',
+                location: 'Coimbatore, India'
+            },
+            {
+                id: 2,
                 title: 'My Hire Cloud',
                 role: 'Frontend Developer',
                 url: 'https://web-dev.myhirecloud.com/',
                 desc: 'As a frontend developer, I use React & JavaScript to build user interfaces for web applications.',
-                year: '09/2022 - 2023',
-                location: 'Coimbatore, India'
-            },
-            {
-                id: 1,
-                title: 'MotivAI App',
-                role: 'Frontend Developer',
-                url: 'https://app.motivai.tech/',
-                desc: 'As a frontend developer, I use React & JavaScript to build user interfaces for web applications.',
-                year: '09/2022 - Present',
-                location: 'Coimbatore, India'
-            },
-           
-            {
-                id: 2,
-                title: 'MotivAI Website',
-                role: 'Frontend Developer',
-                url: 'https://motivai.tech/',
-                desc: 'As a frontend developer, I use React  to build user interfaces for web site.',
-                year: '02/2023 - Present',
+                year: '09/2022 - 11/2023',
                 location: 'Coimbatore, India'
             },
             {
                 id: 3,
+                title: 'MotivAI App',
+                role: 'Frontend Developer',
+                url: 'https://app.motivai.tech/',
+                desc: 'As a frontend developer, I use React & JavaScript to build user interfaces for web applications.',
+                year: '09/2022 - 01/2024',
+                location: 'Coimbatore, India'
+            },
+           
+            {
+                id: 4,
+                title: 'MotivAI Website',
+                role: 'Frontend Developer',
+                url: 'https://motivai.tech/',
+                desc: 'As a frontend developer, I use React  to build user interfaces for web site.',
+                year: '02/2023 - 01/2024',
+                location: 'Coimbatore, India'
+            },
+            {
+                id: 5,
                 title: 'QueGlider',
                 role: 'Frontend Developer',
                 url: 'https://mango-glacier-0f8caaa00.4.azurestaticapps.net',
                 desc: "As a frontend developer, I use React & JavaScript to build user interfaces for web applications.",
-                year: '12/2023 - Present',
+                year: '12/2023 - 01/2024',
                 location: 'Coimbatore, India'
             },
 
