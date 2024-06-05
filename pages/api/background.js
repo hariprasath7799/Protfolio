@@ -4,7 +4,7 @@ const background = [
             {
                 id: 0,
                 title: 'KG College of arts and science',
-                degree: 'Msc Software Systems',
+                degree: 'M.Sc.Software Systems',
                 detail: "Post Graduate in Software Systems from KG College Coimbatore.",
                 percentage:"6.7CGPA",
                 year: '2016-2021'
