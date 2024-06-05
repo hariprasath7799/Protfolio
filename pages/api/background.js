@@ -33,7 +33,7 @@ const background = [
                 id: 1,
                 title: 'ERP Software',
                 role: 'Frontend Developer',
-                url: '#',
+                url: '',
                 desc: 'As a frontend developer, I use React & JavaScript to build user interfaces for web applications.',
                 year: '06/2021 - 09/2022',
                 location: 'Coimbatore, India'
